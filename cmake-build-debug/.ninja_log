@@ -1,0 +1,6 @@
+# ninja log v6
+1	33	1730754770926714231	build.ninja	4060d43bddecc05a
+1	53	1729889763025771855	CMakeFiles/Distributed_File_System.dir/Metadata_Server.c.o	1c3b8f5552b5e582
+53	80	1729889763077772288	Distributed_File_System	373089d266c7a098
+5	102	1730754048792705111	CMakeFiles/Distributed_File_System.dir/Client_.c.o	1df1bb83584ed8b6
+1	24	1730754770926714231	build.ninja	4060d43bddecc05a

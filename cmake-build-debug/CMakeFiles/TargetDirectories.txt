@@ -1,0 +1,3 @@
+/home/cem/Dokumente/Distributed-File-System/cmake-build-debug/CMakeFiles/Distributed_File_System.dir
+/home/cem/Dokumente/Distributed-File-System/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cem/Dokumente/Distributed-File-System/cmake-build-debug/CMakeFiles/rebuild_cache.dir

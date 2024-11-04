@@ -62,7 +62,6 @@ int main() {
         exit(1);
     }
 
-
     //Send message
     ssize_t send_message = send(client_socket, buffer, 500, 0);
     if (send_message == -1) {
@@ -70,6 +69,7 @@ int main() {
         close(client_socket);
         exit(1);
     }
+
 
     //free ressource
     close(mainSocket);
